@@ -49,7 +49,7 @@ class Homepage extends Component{
 				<h1 className="blue f-6 pv0 mv0">MoviezBin</h1>
 				<SearchBox searchChange={this.onSearchChange} show={this.showResult} option={this.option}/>
 				<h2 className='tc white'>A Repository of your Favourite Movies</h2>
-				<h6>Press Spacebar after writing then search</h6>
+				<h6 className='tc white'>Press Spacebar after writing then search</h6>
 			</div>
 		</div>
 
