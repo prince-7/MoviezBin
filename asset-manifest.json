@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/MoviezBin/static/css/main.e4745f99.chunk.css",
-    "main.js": "/MoviezBin/static/js/main.5eb86931.chunk.js",
-    "main.js.map": "/MoviezBin/static/js/main.5eb86931.chunk.js.map",
+    "main.js": "/MoviezBin/static/js/main.a3a0d707.chunk.js",
+    "main.js.map": "/MoviezBin/static/js/main.a3a0d707.chunk.js.map",
     "runtime-main.js": "/MoviezBin/static/js/runtime-main.ba7bdfc2.js",
     "runtime-main.js.map": "/MoviezBin/static/js/runtime-main.ba7bdfc2.js.map",
     "static/css/2.d811125f.chunk.css": "/MoviezBin/static/css/2.d811125f.chunk.css",
     "static/js/2.ed28d22c.chunk.js": "/MoviezBin/static/js/2.ed28d22c.chunk.js",
     "static/js/2.ed28d22c.chunk.js.map": "/MoviezBin/static/js/2.ed28d22c.chunk.js.map",
     "index.html": "/MoviezBin/index.html",
-    "precache-manifest.c37a3b6915f4b368c9d10ad57185bce1.js": "/MoviezBin/precache-manifest.c37a3b6915f4b368c9d10ad57185bce1.js",
+    "precache-manifest.a0da52203ea71e0b63a0571bb5b7c190.js": "/MoviezBin/precache-manifest.a0da52203ea71e0b63a0571bb5b7c190.js",
     "service-worker.js": "/MoviezBin/service-worker.js",
     "static/css/2.d811125f.chunk.css.map": "/MoviezBin/static/css/2.d811125f.chunk.css.map",
     "static/css/main.e4745f99.chunk.css.map": "/MoviezBin/static/css/main.e4745f99.chunk.css.map",
@@ -20,6 +20,6 @@
     "static/css/2.d811125f.chunk.css",
     "static/js/2.ed28d22c.chunk.js",
     "static/css/main.e4745f99.chunk.css",
-    "static/js/main.5eb86931.chunk.js"
+    "static/js/main.a3a0d707.chunk.js"
   ]
 }
