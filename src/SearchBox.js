@@ -12,7 +12,7 @@ const SearchBox= ({searchChange, show, option}) =>{
 		 <input 
 			className='pa3 br4 ba b--blue bg-lightest-blue w-50'
 			type='search'
-			placeholder='Search Movies'
+			placeholder='Search Movies or Genres:- Romance, Action, Animation, Crime, Thriller, Comedy '
 			onChange={searchChange}
 			/>
 			<input 
