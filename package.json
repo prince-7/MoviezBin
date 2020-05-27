@@ -1,6 +1,5 @@
 {
   "name": "moviezbin",
-  "homepage": "https://prince-7.github.io/MoviezBin",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
