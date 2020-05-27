@@ -1,3 +1,12 @@
+# Note :- To search anything first select the type of search, then write the search term and then press space bar then press search.
+The link might not work
+Hence,
+git clone.
+npm install
+npm run.
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
